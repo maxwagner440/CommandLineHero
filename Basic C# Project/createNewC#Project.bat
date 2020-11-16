@@ -55,10 +55,6 @@ dotnet add package Serilog.Settings.Configuration
 
 dotnet add package Swashbuckle.AspNetCore
 dotnet add package Swashbuckle.AspNetCore.Annotations
-dotnet add package Swashbuckle.AWSApiGateway.Annotations
-dotnet add package Swashbuckle.DocumentTags.Extension
-dotnet add package Swashbuckle.Rebase.Extensions
-dotnet add package Swashbuckle.Servers.Extension
 
 REM -- Adding references for test package
 cd ..\%projectName%.Tests
