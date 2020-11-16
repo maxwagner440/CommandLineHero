@@ -1,7 +1,9 @@
 # CommandLineHero
 
-windows batch files that help automate daily processes
+Scripts that help automate daily processes
 
+
+# createNewC#Project.bat
 
 Before running the batch file:
 
