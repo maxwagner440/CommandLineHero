@@ -1,7 +1,7 @@
 REM -- Set your projectName and the Directory you want this project to be made in
 
 set projectName=DeltaForce
-set directory=C:\Users\mwagner\Projects\GitHub\
+set directory=C:\Users
 
 cd %directory%
 mkdir %projectName%
